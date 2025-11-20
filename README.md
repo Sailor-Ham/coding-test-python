@@ -5,6 +5,34 @@ https://www.acmicpc.net/
 ## 문제
 
 <details>
+  <summary style="font-size: 1.4em; font-weight: bold;">1439 뒤집기</summary>
+
+  <p style="padding-left: 20px;">
+    <a href="https://www.acmicpc.net/problem/1439">[문제 원본]</a>
+  </p>
+  <p style="padding-left: 20px;">
+    <a href="baekjoon/1439_flipping.py">[문제 풀이]</a>
+  </p>
+  <p style="padding-left: 20px;">
+    <a href="https://sailorham.tistory.com">[문제 블로그]</a>
+  </p>
+</details>
+
+<details>
+  <summary style="font-size: 1.4em; font-weight: bold;">1929 소수 구하기</summary>
+
+  <p style="padding-left: 20px;">
+    <a href="https://www.acmicpc.net/problem/1929">[문제 원본]</a>
+  </p>
+  <p style="padding-left: 20px;">
+    <a href="baekjoon/1929_find_prime_numbers.py">[문제 풀이]</a>
+  </p>
+  <p style="padding-left: 20px;">
+    <a href="https://sailorham.tistory.com">[문제 블로그]</a>
+  </p>
+</details>
+
+<details>
   <summary style="font-size: 1.4em; font-weight: bold;">2562 최댓값</summary>
 
   <p style="padding-left: 20px;">
