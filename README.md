@@ -9,7 +9,7 @@ https://www.acmicpc.net/
 ## 10809 알파벳 찾기
 - [문제 원본](https://www.acmicpc.net/problem/10809)
 - [문제 풀이](baekjoon/10809_find_alphabet.py)
-- [문제 블로그]()
+- [문제 블로그](https://sailorham.tistory.com/3)
 
 ---
 # 프로그래머스
