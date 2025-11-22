@@ -14,7 +14,7 @@ https://www.acmicpc.net/
     <a href="baekjoon/1439_flipping.py">[문제 풀이]</a>
   </p>
   <p style="padding-left: 20px;">
-    <a href="https://sailorham.tistory.com">[문제 블로그]</a>
+    <a href="https://sailorham.tistory.com/5">[문제 블로그]</a>
   </p>
 </details>
 
