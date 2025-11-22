@@ -7,8 +7,6 @@ sqrt = math.sqrt
 M, N = map(int, read().split())
 
 for n in range(M, N + 1):
-    if n == 1:
-        continue
 
     for i in range(2, int(sqrt(n)) + 1):
         if n % i == 0:

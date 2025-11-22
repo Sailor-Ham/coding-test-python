@@ -28,7 +28,7 @@ https://www.acmicpc.net/
     <a href="baekjoon/1929_find_prime_numbers.py">[문제 풀이]</a>
   </p>
   <p style="padding-left: 20px;">
-    <a href="https://sailorham.tistory.com">[문제 블로그]</a>
+    <a href="https://sailorham.tistory.com/4">[문제 블로그]</a>
   </p>
 </details>
 
