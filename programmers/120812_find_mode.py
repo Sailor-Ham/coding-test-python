@@ -1,3 +1,5 @@
+# 프로그래머스 120812 - 최빈값 구하기
+
 def solution(array):
 
     occurred_dictionary = {}

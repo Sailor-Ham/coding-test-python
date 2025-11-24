@@ -1,3 +1,5 @@
+# 백준 2562 - 최댓값
+
 import sys
 
 read = sys.stdin.readline

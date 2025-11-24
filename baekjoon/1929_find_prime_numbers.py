@@ -1,3 +1,5 @@
+# 백준 1929 - 소수 구하기
+
 import sys
 import math
 
