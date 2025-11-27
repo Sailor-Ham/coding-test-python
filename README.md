@@ -11,10 +11,10 @@ https://www.acmicpc.net/
     <a href="https://www.acmicpc.net/problem/1158">[문제 원본]</a>
   </p>
   <p style="padding-left: 20px;">
-    <a href="baekjoon/1158_josephus.py">[문제 풀이]</a>
+    <a href="baekjoon/1158_josephus_problem.py">[문제 풀이]</a>
   </p>
   <p style="padding-left: 20px;">
-<!--    <a href="https://sailorham.tistory.com/">[문제 블로그]</a> -->
+    <a href="https://sailorham.tistory.com/6">[문제 블로그]</a>
   </p>
 </details>
 
