@@ -74,6 +74,38 @@ https://www.acmicpc.net/
   </p>
 </details>
 
+<details>
+  <summary style="font-size: 1.4em; font-weight: bold;">10872 팩토리얼</summary>
+
+  <p style="padding-left: 20px;">
+    <a href="https://www.acmicpc.net/problem/10872">[문제 원본]</a>
+  </p>
+  <p style="padding-left: 20px;">
+    <a href="baekjoon/10872_factorial.py">[문제 풀이]</a>
+  </p>
+  <p style="padding-left: 20px;">
+    <!--
+    <a href="https://sailorham.tistory.com/">[문제 블로그]</a>
+    -->
+  </p>
+</details>
+
+<details>
+  <summary style="font-size: 1.4em; font-weight: bold;">17609 회문</summary>
+
+  <p style="padding-left: 20px;">
+    <a href="https://www.acmicpc.net/problem/17609">[문제 원본]</a>
+  </p>
+  <p style="padding-left: 20px;">
+    <a href="baekjoon/17609_palindrome.py">[문제 풀이]</a>
+  </p>
+  <p style="padding-left: 20px;">
+    <!--
+    <a href="https://sailorham.tistory.com/">[문제 블로그]</a>
+    -->
+  </p>
+</details>
+
 ---
 
 # 프로그래머스
@@ -81,6 +113,22 @@ https://www.acmicpc.net/
 https://programmers.co.kr/
 
 ## 문제
+
+<details>
+  <summary style="font-size: 1.4em; font-weight: bold;">43165 타겟 넘버</summary>
+
+  <p style="padding-left: 20px;">
+    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/43165">[문제 원본]</a>
+  </p>
+  <p style="padding-left: 20px;">
+    <a href="programmers/43165_target_number.py">[문제 풀이]</a>
+  </p>
+  <p style="padding-left: 20px;">
+    <!--
+    <a href="https://sailorham.tistory.com/">[문제 블로그]</a>
+    -->
+  </p>
+</details>
 
 <details>
   <summary style="font-size: 1.4em; font-weight: bold;">120812 최빈값 구하기</summary>
