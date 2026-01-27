@@ -2,12 +2,12 @@
 
 import sys
 
-read = sys.stdin.readline
+input = sys.stdin.readline
 INPUT_SIZE = 9
 
 numbers = []
 for _ in range(INPUT_SIZE):
-    numbers.append(int(read()))
+    numbers.append(int(input()))
 
 max_num = 0
 max_index = 0
