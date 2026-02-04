@@ -1,18 +1,5 @@
 # 백준 17609 - 회문
 
-
-# abba
-
-# 0     3            1 2
-# v     v            v v
-# a b b a: True -> a b b a: True -> 0
-
-# 0           6            1       5                2   4                     3 4
-# v           v            v       v                v   v                     v v    : False
-# s u m m u u s: True -> s u m m u u s: True -> s u m m u u s: False -> s u m m u u s:
-#                                                                           ^ ^      : True
-#                                                                           2 3
-
 import sys
 
 input = sys.stdin.readline
