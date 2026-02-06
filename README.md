@@ -13,8 +13,9 @@
 | <img src="https://static.solved.ac/tier_small/7.svg" width=20 />  | 1158  | [요세푸스 문제](https://www.acmicpc.net/problem/1158) |                           [Py](baekjoon/1158_josephus_problem.py)                           | [Link](https://sailorham.dev/blog/18) |
 | <img src="https://static.solved.ac/tier_small/8.svg" width=20 />  | 1929  | [소수 구하기](https://www.acmicpc.net/problem/1929)  |                             [Py](baekjoon/1929_find_primes.py)                              | [Link](https://sailorham.dev/blog/13) |
 | <img src="https://static.solved.ac/tier_small/9.svg" width=20 />  | 1874  |  [스택 수열](https://www.acmicpc.net/problem/1874)  |                           [풀이중](baekjoon/1874_stack_sequence.py)                            |                   -                   |                                 
-| <img src="https://static.solved.ac/tier_small/11.svg" width=20 /> | 2493  |    [탑](https://www.acmicpc.net/problem/2493)    |                                 [풀이중](baekjoon/2493_top.py)                                 |                   -                   |                      
+| <img src="https://static.solved.ac/tier_small/11.svg" width=20 /> | 2493  |    [탑](https://www.acmicpc.net/problem/2493)    |                                 [Py](baekjoon/2493_top.py)                                  | [Link](https://sailorham.dev/blog/26) |
 | <img src="https://static.solved.ac/tier_small/11.svg" width=20 /> | 17609 |   [회문](https://www.acmicpc.net/problem/17609)   |                             [Py](baekjoon/17609_palindrome.py)                              | [Link](https://sailorham.dev/blog/22) |
+| <img src="https://static.solved.ac/tier_small/12.svg" width=20 /> | 17298 |  [오큰수](https://www.acmicpc.net/problem/17298)   |                        [Py](baekjoon/17298_next_greater_element.py)                         | [Link](https://sailorham.dev/blog/27) |                     
 
 ---
 
