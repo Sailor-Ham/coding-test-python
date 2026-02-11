@@ -1,9 +1,29 @@
 # 프로그래머스 12909 - 올바른 괄호
 
 def solution(s):
-    answer = True
+    stack = []
 
-    # [실행] 버튼을 누르면 출력 값을 볼 수 있습니다.
-    print('Hello Python')
+    for char in s:
+        if char == "(":
+            stack.append(char)
+        else:
+            if not stack:
+                return False
+
+            stack.pop()
+
+    if stack:
+        return False
 
     return True
+
+
+s1 = "()()"
+s2 = "(())()"
+s3 = ")()("
+s4 = "(()("
+
+print("정답: True, 답변:", solution(s1))
+print("정답: True, 답변:", solution(s2))
+print("정답: False, 답변:", solution(s3))
+print("정답: False, 답변:", solution(s4))
